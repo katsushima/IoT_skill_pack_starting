@@ -7,7 +7,7 @@
   "license": "GPL",
   "language":"python",
   "scripts": {
-     "start": "python3 -u update_ambient.py"
+     "start": "python3 update_ambient.py"
     },
    "dependency": null
 }
